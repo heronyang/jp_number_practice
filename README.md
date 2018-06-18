@@ -5,4 +5,3 @@ This tiny Python script plays a random number in Japanese for practicing your ab
 ## Usage
 
     $ python3 main.py
-# jp_number_practice
